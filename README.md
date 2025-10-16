@@ -52,7 +52,7 @@ https://Rashinu.github.io/password-generator/
 
 ## 👤 Author
 
-**Your Name**  
+**Murat Keskin**  
 [GitHub](https://github.com/Rashinu) • [LinkedIn](https://www.linkedin.com/in/murat-keskin-87b75028b/)
 
 ---
